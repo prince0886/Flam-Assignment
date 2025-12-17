@@ -31,7 +31,7 @@ Endpoints (P0, P3) stay fixed
 Control points and tangents are visible for clarity
 Animation runs using requestAnimationFrame (~60 FPS)
 
-#Notes
+# Notes
 No external libraries used
 All Bézier math and physics are implemented manually
 Built using HTML Canvas + Vanilla JavaScript
